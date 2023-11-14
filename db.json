@@ -4,19 +4,16 @@
       "id": "Maria",
       "title": "Maratona",
       "description": "Maratona pelo parque do cocó14/11, às 19:00",
-      "data":14/11
     },
     {
       "id": "João",
       "title": "Zumba",
       "description": "Aula experimental de zumba praia do futuro, 17:00"
-      "data":19/11
     },
     {
       "id": "Lucas",
       "title": "Exercicio ao ar livre",
       "description": "Rotina de treino ao ar livre(30 min de caminhada, 1h de dança, 15min pausa, 40min cross-fit geral), ginasio Paulo Sarazat, às 14:00"
-      "data": 16/11
     }
   ],
   "comments": [
